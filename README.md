@@ -12,6 +12,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/HaiderNaqvi313/threat-hunting-scenario-tor)**
 
+## 📋 Incident Response Projects
+
 - **[Incident Response Detection Rule aligned with NIST 800-61)](https://github.com/HaiderNaqvi313/sentinel-brute-force-detection)**
   
 <hr/>
