@@ -18,7 +18,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Python for Cybersecurity
 - ** Python Strength Checker (https://github.com/HaiderNaqvi313/Password-Strength-Checker)
-- 
   
 <hr/>
 
