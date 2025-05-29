@@ -17,7 +17,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Brute Force Detection Rule aligned with NIST 800-61)](https://github.com/HaiderNaqvi313/sentinel-brute-force-detection)**
 
 ## 🚨 Python for Cybersecurity
-- **Password Strength Checker for Security Purposes
+- ** Python Strenght Checker(https://github.com/HaiderNaqvi313/Password-Strength-Checker)
+- 
   
 <hr/>
 
