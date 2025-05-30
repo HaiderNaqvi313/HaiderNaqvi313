@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📋 Incident Response Projects
 
-- **[Brute Force Detection Rule aligned with NIST 800-61)](https://github.com/HaiderNaqvi313/sentinel-brute-force-detection)**
+- **[Brute Force Detection Rule aligned with NIST 800-61](https://github.com/HaiderNaqvi313/sentinel-brute-force-detection)**
 
 
   
