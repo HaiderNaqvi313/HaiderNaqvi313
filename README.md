@@ -21,6 +21,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Intelligence Report – Using VirusTotal, OTX, AbuseIPDB & MITRE ATT&CK](https://github.com/HaiderNaqvi313/Threat-Intelligence-Report-)**
 
+## (SOC)ial Engineering Projects
+- **[
+
 
   
 <hr/>
