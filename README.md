@@ -24,6 +24,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## (SOC)ial Engineering Projects
 - **[Phising Email Analysis](https://github.com/HaiderNaqvi313/phishing-email-analysis)
 
+## IAM | Access Control 
+- **[Access Control Review] (https://github.com/HaiderNaqvi313/Access-Control-Review-)
+
 
   
 <hr/>
