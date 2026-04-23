@@ -27,8 +27,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## IAM | Access Control 
 - **[Access Control Review](https://github.com/HaiderNaqvi313/Access-Control-Review-)
 
-## Cybersecurity Awarness Training 
-- ** 
+## Cybersecurity Engineering Python | API | Data
+
+- **[https://github.com/HaiderNaqvi313/Vulnerability-Intelligence-Risk-Scoring-Tool-Python-NVD-API-]
+
 
 
   
